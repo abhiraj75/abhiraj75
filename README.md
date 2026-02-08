@@ -96,16 +96,16 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
+## 📊 Contribution Graph
 
 <div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=abhiraj75&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF)
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</div>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=abhiraj75&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
-
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
 
 ---
@@ -139,7 +139,6 @@ me.say_hi()
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/litening75/)
 
 [![GitHub followers](https://img.shields.io/github/followers/abhiraj75?style=social)](https://github.com/abhiraj75)
-[![Twitter Follow](https://img.shields.io/twitter/follow/abhiraj75?style=social)](https://twitter.com/abhiraj75)
 
 ---
 
