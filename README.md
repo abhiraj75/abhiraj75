@@ -90,7 +90,7 @@ me.say_hi()
 
 <div align="center">
   
-### 📂 [Check out more projects on my portfolio!](https://abhiraj-portfolio-website.vercel.app/)
+### 📂 [Check out more projects on my portfolio!](https://github.com/abhiraj75?tab=repositories)
 
 </div>
 
