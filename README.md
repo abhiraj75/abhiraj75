@@ -104,7 +104,7 @@ me.say_hi()
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abhiraj75&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=abhiraj75&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
+![GitHub Streak](https://streak-stats.demolab.com/?user=abhiraj75&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF)
 
 </div>
 
