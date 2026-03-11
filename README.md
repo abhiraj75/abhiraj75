@@ -35,7 +35,7 @@ me = AbhirajSingh()
 me.say_hi()
 ```
 
-- 🎓 First-year CS student specializing in **AI/ML**
+- 🎓 CSE undergrad specializing in **AI/ML**
 - 💡 Passionate about solving real-world problems with **innovative tech**
 - 🎖️ Former **School Captain** at Army Public School, Barrackpore, West Bengal
 - 🐕 Community volunteer with Stray Dogs Welfare Initiative
