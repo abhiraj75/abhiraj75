@@ -2,7 +2,7 @@
 
 # 👋 Hey there, I'm Abhiraj Singh!
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A7%A0;Aspiring+Full-Stack+Developer+%F0%9F%92%BB;Web3+Explorer+%F0%9F%8C%90;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00D9FF&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Enthusiast+%F0%9F%A7%A0;Full-Stack+Developer+%F0%9F%92%BB;Web3+Explorer+%F0%9F%8C%90;Open+Source+Contributor+%E2%9C%A8" alt="Typing SVG" />
 
 </div>
 
