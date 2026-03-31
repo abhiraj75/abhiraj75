@@ -36,7 +36,7 @@ me.say_hi()
 ```
 
 - 🎓 CSE undergrad specializing in **AI/ML**
-- 💡 Passionate about solving real-world problems with **innovative tech**
+- 💡 Solving real-world problems with **innovative tech**
 - 🎖️ Former **School Captain** at Army Public School, Barrackpore, West Bengal
 - 🐕 Community volunteer with Stray Dogs Welfare Initiative
 - 🌱 Currently diving deep into **backend systems** and **Web3 technologies**
