@@ -24,7 +24,7 @@ class AbhirajSingh:
     def __init__(self):
         self.username = "abhiraj75"
         self.location = "India 🇮🇳"
-        self.education = "B.Tech CSE (AI/ML) @ Medhavi Skills University"
+        self.education = "B.Tech CSE (AI/ML) @ Polaris School Of Technology"
         self.current_focus = ["AI/ML", "Full-Stack Development", "Web3"]
         self.hobbies = ["Coding", "Gaming", "Community Service"]
         
