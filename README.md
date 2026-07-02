@@ -81,23 +81,23 @@ me.say_hi()
 
 ## 🔥 Featured Projects
 
-### 🎮 [Full-Stack Gaming Stats Dashboard](https://main-esports-dashboard.onrender.com/)
-> Interactive web app displaying live gaming statistics with dynamic charts and search functionality
-- Built with **Node.js**, **Express**, and **Chart.js**
-- Real-time data visualization using RAWG API
-- Deployed on Render
+### 🧑‍💻 [DebugX](https://debugxfrontend.vercel.app)
+> AI-powered coding practice platform with real-time code execution, AI feedback, and structured learning paths
+- Built with **Next.js 14**, **TypeScript**, **FastAPI**, and **PostgreSQL**
+- Real-time code execution with automated test judging and AI-powered feedback
+- Step-by-step code visualization, activity heatmaps, streaks, and leaderboards
 
-### 🕹️ [Cyber Dodge](https://cyberdodge.netlify.app)
-> Retro arcade survival game with progressive difficulty
-- Pure **JavaScript** with HTML5 Canvas
-- LocalStorage for persistent high scores
-- Service Workers for offline capability
+### 🚑 [EMS Voice PCR](https://ems-voice-pcr.vercel.app)
+> Voice-first drafting tool that turns paramedic spoken handoffs into structured Patient Care Reports
+- Built with **React 19**, **TypeScript**, and **FastAPI**
+- **Groq Whisper** transcription + **Llama 3.3 70B** extraction into 26 clinical fields
+- Code-switched Hinglish/English support with editable forms and JSON export
 
-### 🎁 [Gift Picker Lottery DApp](https://github.com/abhiraj75/web3-giftpicker-dapp)
-> Decentralized lottery application on Flare Coston2 testnet
-- Smart contracts in **Solidity**
-- Frontend with **React** & **Next.js**
-- Web3 integration using **wagmi**
+### 📈 [BTC Predictor](https://btc-predictor-abhiraj.streamlit.app/)
+> Predicts Bitcoin's next-hour price range using Monte Carlo simulation
+- Pure **Python** with an interactive **Streamlit** dashboard
+- GBM with **FIGARCH** conditional volatility and 10,000 simulations per prediction
+- 30-day rolling backtest with Winkler Score and hit/miss accuracy tracking
 
 <div align="center">
   
