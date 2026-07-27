@@ -133,7 +133,7 @@ me.say_hi()
 - ⛓️ Exploring **blockchain** and **smart contract** development
 - 📚 Contributing to **open-source** projects
 - 🤝 Collaborating on innovative **AI-powered solutions**
-- 🧠 Delving into **Machine Learning** algorithms and **Deep Learning**
+- 🧠 Expanding my knowledge of **Machine Learning** algorithms and **Deep Learning**
 
 ---
 
