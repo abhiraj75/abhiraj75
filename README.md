@@ -157,7 +157,7 @@ me.say_hi()
 
 ---
 
-**⭐️ From [abhiraj75](https://github.com/abhiraj75) | Building the future, one commit at a time 🚀**
+**From [abhiraj75](https://github.com/abhiraj75) | Building the future, one commit at a time 🚀**
 
 </div>
 
