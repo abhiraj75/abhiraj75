@@ -47,7 +47,7 @@ me.say_hi()
 
 ## 💼 Experience
 
-**AI Engineering Intern** - SaaS tax-compliance startup *(Jul 2026 - Present, Remote)*
+**AI Engineering Intern** - SaaS tax-compliance startup *(Jul 2026 - Sept 2026, Remote)*
 - Production system monitoring tax-law changes across all 50 US states: rate changes, taxability shifts, nexus updates
 - Multi-category data model and Postgres schema (jurisdiction, tax category, rate, change event) with per-state data adapters
 - Diff-based change detection that classifies every change before it reaches the customer-facing report
