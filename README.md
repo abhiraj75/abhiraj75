@@ -12,7 +12,6 @@
 [![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1MNLO8-Utx6-QG4e23H-zYVbwS6-jft4S/edit?usp=sharing)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirajsingh27/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:itsabhiraj27@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/litening75/)
 
 </div>
 
@@ -25,7 +24,6 @@ class AbhirajSingh:
     def __init__(self):
         self.username = "abhiraj75"
         self.location = "Bengaluru, India 🇮🇳"
-        self.education = "B.Tech CSE (AI/ML) @ Medhavi Skills University"
         self.current_focus = ["AI Agents", "Backend Systems", "Full-Stack Products"]
         self.philosophy = "Pick unfamiliar domains on purpose - that's where you learn fastest"
 
@@ -37,23 +35,19 @@ me.say_hi()
 ```
 
 - 🎓 CSE undergrad specializing in **AI/ML** - Merit Scholar (₹7,00,000 scholarship + MacBook Pro)
-- 🤖 Built a production US 50-state tax-law change monitoring system during an **AI engineering internship**
-- 🌍 Open-source contributor to **international organisations** across Python, JS/TS, and Vue codebases
 - ⚡ Drawn to systems where correctness is the hard part - schema design, change detection, and LLM guardrails enforced in code
-- 🎖️ Former **School Captain** at Army Public School, Barrackpore, West Bengal
-- 🐕 Community volunteer with the Stray Dogs Welfare Initiative
 
 ---
 
 ## 💼 Experience
 
-**AI Engineering Intern** - SaaS tax-compliance startup *(Jul 2026 - Sept 2026, Remote)*
+**AI Engineering Intern** - Aatra *(Jul 2026 - Sept 2026, Remote)*
 - Production system monitoring tax-law changes across all 50 US states: rate changes, taxability shifts, nexus updates
 - Multi-category data model and Postgres schema (jurisdiction, tax category, rate, change event) with per-state data adapters
 - Diff-based change detection that classifies every change before it reaches the customer-facing report
 
-**Open Source Contributor** - International Organisations *(2025 - Present, Remote)*
-- Bug fixes, features, refactors, and language migrations across **Python, JavaScript, TypeScript, and Vue.js** codebases
+**Open Source Contributor** *(2025 - Present, Remote)*
+- Bug fixes, features, refactors, and language migrations across **Python, JavaScript, TypeScript, Vue.js** and other codebases
 - Working with maintainers through code reviews and PR discussions on large-scale production code
 
 ---
@@ -106,45 +100,6 @@ me.say_hi()
 
 ---
 
-## 🔥 Featured Projects
-
-### 🤖 [SaaS Support Agent](https://github.com/abhiraj75/SaaS_support_agent)
-> Agentic tool-calling support agent that decides which tool a question needs before it answers
-- **FastAPI**, **PostgreSQL**, **Gemini**, **Docker** - routes queries across 5 tools over a bounded orchestration loop
-- Code-enforced spend gate blocks payment retries until a separate confirmation turn (enforced in code, not the prompt)
-- Server-side customer identity injection to resist prompt injection, Pydantic-validated tool args, JSONB audit trail
-
-### 🚑 [108 EMS Voice PCR](https://ems-voice-pcr.vercel.app) · [Source](https://github.com/abhiraj75/ems_voice_pcr)
-> Turns spoken Hinglish/English ambulance handoffs into structured Patient Care Reports
-- **React 19**, **TypeScript**, **Tailwind CSS**, **FastAPI**, **Groq Whisper** + **Llama 3.3 70B**
-- AI uncertainty flags surface low-confidence fields instead of silently guessing - in medical data, wrong-but-confident is worse than blank
-- Saved drafts and one-click JSON export for downstream systems
-
-### 🧑‍💻 [DebugX](https://debugxfrontend.vercel.app) · [Source](https://github.com/abhiraj75/DebugX)
-> AI-powered coding practice platform where problems fight back
-- **Next.js**, **TypeScript**, **FastAPI**, **MySQL** - real-time code execution with automated test judging
-- Step-by-step execution visualization, plus streaks and heatmaps that track what you actually retained
-- Built to bridge the gap between tutorial-based learning and real-world coding ability
-
-### 📈 [BTC Next-Hour Predictor](https://btc-predictor-abhiraj.streamlit.app/) · [Source](https://github.com/abhiraj75/BTC-predictor)
-> Forecasts Bitcoin's next hour as a range, not a number
-- Geometric Brownian Motion with **FIGARCH(1,1)** conditional volatility and Student-t shocks for fat tails
-- 10,000 Monte Carlo simulations per prediction; **95.1% coverage** across a 720-prediction, 30-day rolling backtest (Winkler score)
-- Live **Streamlit** dashboard with prediction persistence, candlestick charts, and hit/miss tracking via the Binance API
-
-### 🔍 [Chain Lens](https://github.com/abhiraj75/Chain-Lens-Bitcoin)
-> Reads raw Bitcoin blocks and transactions byte by byte and explains what's inside
-- **Python** + **Flask** — no library does the parsing: SegWit witness structure, address derivation, and fee analysis straight against the protocol spec
-- Structured JSON reports with an interactive dark-mode web visualiser
-
-<div align="center">
-  
-### 📂 [More projects on GitHub →](https://github.com/abhiraj75?tab=repositories)
-
-</div>
-
----
-
 ## 📊 Contribution Graph
 
 <div align="center">
@@ -156,16 +111,6 @@ me.say_hi()
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="1000">
 </div>
-
----
-
-## 🎓 Education
-
-**B.Tech, Computer Science & Engineering (AI/ML)** - Medhavi Skills University *(2025 - 2029)*
-Merit Scholar: ₹7,00,000 scholarship + MacBook Pro. Coursework in Python, full-stack web development, DSA, the mathematics of machine learning, and database systems.
-
-**Class XII, CBSE** - Army Public School, Barrackpore *(2024 - 2025)*
-91% overall, 97 in Computer Science, 95 in English Literature. School Captain, leading the student council and running workshops, campaigns, and cultural events.
 
 ---
 
@@ -192,12 +137,6 @@ Merit Scholar: ₹7,00,000 scholarship + MacBook Pro. Coursework in Python, full
 ### 💬 Let's Connect!
 
 *I'm always open to interesting conversations and collaboration opportunities - internships, collaboration, and open-source work.*
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://abhiraj-portfolio-website.vercel.app/)
-[![Resume](https://img.shields.io/badge/R%C3%A9sum%C3%A9-4285F4?style=for-the-badge&logo=google-docs&logoColor=white)](https://docs.google.com/document/d/1MNLO8-Utx6-QG4e23H-zYVbwS6-jft4S/edit?usp=sharing)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhirajsingh27/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/litening75/)
-[![Email](https://img.shields.io/badge/-itsabhiraj27@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:itsabhiraj27@gmail.com)
 
 ---
 
