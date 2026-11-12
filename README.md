@@ -34,15 +34,18 @@ me.say_hi()
         50 US states and classifies every rate, taxability and nexus shift
 [build] Full-stack products and AI tools: schema-validated LLM agents, voice-AI
 [like]  Systems where correctness is the hard part: guardrails in code, not prompts
-[oss]   Active open-source contributor
+[oss]   Contributor to Sugar Labs, Learning Equality, Kiwix, krkn, RISC-V
+        and CircuitVerse
 ```
 
 ### `❯ ls ~/projects`
 
 | Project | What it does |
 |---|---|
+| [**Speaker Claim Agent**](https://github.com/abhiraj75/speaker-claim-agent) | Fact-checks AI product answers claim by claim against a catalogue; 0.992 joint F1 on 376 labelled claims, injection-resistant |
+| [**RedHanded**](https://github.com/abhiraj75/RedHanded) | Coding agent that reproduces a bug with a failing check in a sandbox before fixing it, and opens a PR with proof |
 | [**SaaS Support Agent**](https://github.com/abhiraj75/SaaS_support_agent) | Tool-calling support agent with a spend gate enforced in code and server-side identity to resist prompt injection |
-| [**108 EMS Voice PCR**](https://github.com/abhiraj75/ems_voice_pcr) | Converts Hinglish/English ambulance handoffs into structured patient care reports (Groq Whisper + Llama 3.3) |
+| [**108 EMS Voice PCR**](https://github.com/abhiraj75/ems_voice_pcr) | Live two-way voice agent that fills ambulance patient care reports in Hindi or English, with rule-based safety alerts (Gnani STT/TTS + Groq) |
 | [**DebugX**](https://github.com/abhiraj75/DebugX) | Coding practice platform with live judging, AI feedback, and a sandboxed line-by-line Python visualiser |
 | [**BTC Next-Hour Predictor**](https://github.com/abhiraj75/BTC-predictor) | GBM + FIGARCH Monte Carlo model with 95.1% coverage across a 720-prediction backtest |
 | [**Chain Lens**](https://github.com/abhiraj75/Chain-Lens-Bitcoin) | Decodes raw Bitcoin transactions and blocks into structured JSON reports |
